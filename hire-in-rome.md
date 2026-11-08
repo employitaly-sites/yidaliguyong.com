@@ -1,0 +1,10 @@
+# 在義大利羅馬聘用員工
+
+> 在羅馬聘用員工：主要產業、大學、地方所得稅附加稅、實領薪資，以及台灣與香港企業的實務重點。
+
+
+<section> <span class="eyebrow">依城市聘用</span> <h1 id="hire-in-rome">在羅馬聘用</h1> <p class="lede">羅馬是首都與政府所在地。若您的客戶是公部門、能源集團、電信業者或國防產業，例如投標智慧電網、通訊設備或監控系統的台灣廠商，在羅馬設點就能貼近決策者。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要產業</h3><p>公共行政及其供應商、能源與公用事業、電信、航太與國防、影視製作、觀光，以及聯合國糧農組織等國際組織。</p></div> <div class="panel"><h3 id="talent-pools">人才來源</h3><p>羅馬大學（歐洲規模最大的大學之一）、羅馬第二大學（工程、經濟）、羅馬第三大學，以及 LUISS（法律、商管、政治）。</p></div> </section> <section> <h2 id="local-income-tax">羅馬的地方所得稅</h2> <p class="prose">員工除了全國所得稅 IRPEF，還要繳市級與大區附加稅，都由我們透過薪資預扣。</p> <div class="tbl"><table> <thead><tr><th>項目</th><th>2026 年數值</th><th>狀態</th></tr></thead> <tbody> <tr><td>市級附加稅率</td><td>0.9%</td><td>來源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026 表，2026 年 10 月 27 日讀取。<span class="tag">次級資料</span> 市議會 2026 年決議尚未查核。</td></tr> <tr><td>市級免稅門檻</td><td>€14,000</td><td>同上。</td></tr> <tr><td>大區附加稅（拉齊奧）</td><td>€15,000 以內 1.73%；€28,000 以上 3.33%</td><td>來源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026 年 10 月 27 日讀取。<span class="tag">未查核</span> 較高級距待以 finanze.gov.it 確認；中間級距未讀取。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">對實領的影響</h2> <p>拉齊奧大區在 €28,000 以上的稅率是義大利最高之一，0.9% 的市級稅率也高於米蘭和波隆那。大部分專業人員的薪資都落在 3.33% 的級距。同樣的稅前薪資，羅馬員工通常比米蘭或波隆那實領少。若您在各城市給一樣的薪水，羅馬的同仁會察覺差異。</p>  </section> <section class="prose"> <h2 id="practical-notes">實務重點</h2> <ul>  <li><b>通勤。</b>以城市規模而言地鐵路網偏小，交通壅塞。辦公室地點很重要：選在地鐵或區域鐵路站附近，並允許混合辦公。</li> <li><b>交通。</b>菲烏米奇諾是義大利最大的機場，往亞洲的轉機選擇多。</li>  <li><b>時差。</b>台北與香港比義大利快 7 小時，夏季快 6 小時。義大利上午是台灣的下午到傍晚，週會建議排在義大利 9 點至 10 點。</li> </ul> </section> <section class="prose"> <h2 id="start">開始在羅馬聘用</h2> <p>先估算雇主總成本，再告訴我們職缺內容。</p> <div class="cta"><a class="btn" href="calculator.html">開啟試算器</a><a class="btn ghost" href="contact.html">取得報價</a></div> </section>
+
+
+---
+Source: https://yidaliguyong.com/hire-in-rome.html

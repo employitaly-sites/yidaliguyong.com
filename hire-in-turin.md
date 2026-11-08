@@ -1,0 +1,10 @@
+# 在義大利杜林聘用員工
+
+> 在杜林聘用員工：汽車與航太產業、大學、地方所得稅附加稅、實領薪資，以及台灣零組件供應商的實務重點。
+
+
+<section> <span class="eyebrow">依城市聘用</span> <h1 id="hire-in-turin">在杜林聘用</h1> <p class="lede">杜林是義大利汽車工業的發源地，如今是汽車工程、航太與軟體的重鎮，擁有頂尖理工大學，成本又低於米蘭。對供應車用電子、零組件或 AM 售後件的台灣廠商來說，這裡是靠近歐洲車廠工程團隊的位置。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要產業</h3><p>汽車與供應鏈、航太與太空系統、工業自動化、資通訊與軟體、食品飲料品牌，以及銀行。</p></div> <div class="panel"><h3 id="talent-pools">人才來源</h3><p>杜林理工大學（機械、航太、電子與資訊工程）、杜林大學（科學、經濟、法律）。許多工程師有大型工業集團的經驗。</p></div> </section> <section> <h2 id="local-income-tax">杜林的地方所得稅</h2> <p class="prose">員工除了全國所得稅 IRPEF，還要繳市級與大區附加稅，都由我們透過薪資預扣。</p> <div class="tbl"><table> <thead><tr><th>項目</th><th>2026 年數值</th><th>狀態</th></tr></thead> <tbody> <tr><td>市級附加稅率</td><td>四個級距：0.8%、0.8%、1.1%、1.2%</td><td>來源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026 表，2026 年 10 月 27 日讀取。<span class="tag">次級資料</span> 市議會 2026 年決議尚未查核。</td></tr> <tr><td>市級免稅門檻</td><td>€11,790</td><td>同上。</td></tr> <tr><td>大區附加稅（皮埃蒙特），第一級距</td><td>€15,000 以內 1.62%</td><td>來源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026 年 10 月 27 日讀取。<span class="tag">未查核</span> 其他級距未讀取，待以 finanze.gov.it 確認；2026 至 2028 年預計調升。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">對實領的影響</h2> <p>杜林是五個城市中唯一採累進市級附加稅的城市：低所得者 0.8%，最高級距 1.2%，免稅門檻也是五城最低。同樣稅前薪資下，杜林的資深工程師與主管繳的市級附加稅比米蘭或波隆那多，但較低的房價通常能抵銷。</p>  </section> <section class="prose"> <h2 id="practical-notes">實務重點</h2> <ul>  <li><b>通勤。</b>一條地鐵線，加上路面電車、公車與近郊鐵路。市區平坦緊湊，許多人騎自行車。</li> <li><b>交通。</b>高鐵約一小時到米蘭。杜林機場以歐洲航線為主，洲際航班經樞紐或米蘭馬爾彭薩轉機。</li>  <li><b>時差。</b>台北比義大利快 7 小時，夏季快 6 小時。與新竹或台中研發團隊協作時，義大利上午是最佳會議時段。</li> </ul> </section> <section class="prose"> <h2 id="start">開始在杜林聘用</h2> <p>先估算雇主總成本，再告訴我們職缺內容。</p> <div class="cta"><a class="btn" href="calculator.html">開啟試算器</a><a class="btn ghost" href="contact.html">取得報價</a></div> </section>
+
+
+---
+Source: https://yidaliguyong.com/hire-in-turin.html

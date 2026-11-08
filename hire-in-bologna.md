@@ -1,0 +1,10 @@
+# 在義大利波隆那聘用員工
+
+> 在波隆那聘用員工：包裝機械與自動化產業、大學、地方所得稅附加稅、實領薪資，以及台灣設備商的實務重點。
+
+
+<section> <span class="eyebrow">依城市聘用</span> <h1 id="hire-in-bologna">在波隆那聘用</h1> <p class="lede">波隆那位於歐洲最富裕的製造業區域之一的中心，周圍是機械製造商、機車與跑車品牌和食品集團。供應伺服馬達、控制器、感測器或線性傳動元件的台灣廠商，常在這裡安排應用工程師直接支援客戶。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要產業</h3><p>包裝與自動化機械（「包裝谷」）、機車與跑車、機電整合、食品加工、物流，以及以 Tecnopolo 和 CINECA 為核心的高效能運算。</p></div> <div class="panel"><h3 id="talent-pools">人才來源</h3><p>波隆那大學是義大利最大的大學之一，培育工程、資訊、經濟與農業人才；鄰近的摩德納、雷焦艾米利亞、費拉拉與帕爾馬的大學再補上機械與汽車工程師。</p></div> </section> <section> <h2 id="local-income-tax">波隆那的地方所得稅</h2> <p class="prose">員工除了全國所得稅 IRPEF，還要繳市級與大區附加稅，都由我們透過薪資預扣。</p> <div class="tbl"><table> <thead><tr><th>項目</th><th>2026 年數值</th><th>狀態</th></tr></thead> <tbody> <tr><td>市級附加稅率</td><td>0.8%</td><td>來源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026 表，2026 年 10 月 27 日讀取。<span class="tag">次級資料</span> 市議會 2026 年決議尚未查核。</td></tr> <tr><td>市級免稅門檻</td><td>€15,000</td><td>同上。</td></tr> <tr><td>大區附加稅（艾米利亞-羅馬涅），第一級距</td><td>€15,000 以內 1.33%</td><td>來源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026 年 10 月 27 日讀取。<span class="tag">未查核</span> 其他級距未讀取，待以 finanze.gov.it 確認。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">對實領的影響</h2> <p>波隆那的市級稅率低且單一，免稅門檻適中，大區起始稅率也屬偏低。同樣稅前薪資下，實領接近米蘭、高於羅馬與拿坡里。比較資深職位的薪資前，仍需確認大區較高級距。</p>  </section> <section class="prose"> <h2 id="practical-notes">實務重點</h2> <ul>  <li><b>通勤。</b>公車與近郊鐵路。許多工業雇主位於市區外，通常需要汽車或公司接駁。</li> <li><b>交通。</b>波隆那是高鐵樞紐：約一小時到米蘭與佛羅倫斯，約兩小時十五分到羅馬。機場以歐洲航線為主。</li>  <li><b>時差。</b>台北比義大利快 7 小時，夏季快 6 小時。現場問題回報給台灣原廠時，義大利早上送出、台灣當天下午就能回覆。</li> </ul> </section> <section class="prose"> <h2 id="start">開始在波隆那聘用</h2> <p>先估算雇主總成本，再告訴我們職缺內容。</p> <div class="cta"><a class="btn" href="calculator.html">開啟試算器</a><a class="btn ghost" href="contact.html">取得報價</a></div> </section>
+
+
+---
+Source: https://yidaliguyong.com/hire-in-bologna.html

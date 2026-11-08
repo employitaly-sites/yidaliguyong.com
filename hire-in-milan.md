@@ -1,0 +1,10 @@
+# 在義大利米蘭聘用員工
+
+> 在米蘭聘用員工：主要產業、大學、地方所得稅附加稅、實領薪資，以及台灣與香港企業的實務重點。
+
+
+<section> <span class="eyebrow">依城市聘用</span> <h1 id="hire-in-milan">在米蘭聘用</h1> <p class="lede">米蘭是多數外國企業在義大利的第一個據點，也是電子零組件經銷、時尚採購與香港貿易商最常見的選擇。金融、時尚、顧問與科技業搶同一批人才，市場節奏快，薪資期待也明確。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要產業</h3><p>銀行與資產管理、時尚與精品、工業設計、顧問、媒體、製藥，以及多數跨國企業的區域總部。金融科技與 SaaS 新創持續成長。</p></div> <div class="panel"><h3 id="talent-pools">人才來源</h3><p>米蘭理工大學（工程、設計）、博科尼大學（經濟、管理）、米蘭大學（法律、科學、醫學）、米蘭比可卡大學（科學、統計）。</p></div> </section> <section> <h2 id="local-income-tax">米蘭的地方所得稅</h2> <p class="prose">員工除了全國所得稅 IRPEF，還要繳市級與大區附加稅，都由我們透過薪資預扣。</p> <div class="tbl"><table> <thead><tr><th>項目</th><th>2026 年數值</th><th>狀態</th></tr></thead> <tbody> <tr><td>市級附加稅率</td><td>0.8%</td><td>來源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026 表，2026 年 10 月 27 日讀取。<span class="tag">次級資料</span> 市議會 2026 年決議尚未查核。</td></tr> <tr><td>市級免稅門檻</td><td>€23,000</td><td>同上。</td></tr> <tr><td>大區附加稅（倫巴底），第一級距</td><td>€15,000 以內 1.23%</td><td>來源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026 年 10 月 27 日讀取。<span class="tag">未查核</span> 較高級距待以 finanze.gov.it 確認；所得約 €35,000 時引用稅率為 1.58%。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">對實領的影響</h2> <p>米蘭的市級免稅門檻是五個城市中最高的，薪資較低者在米蘭不必繳市級附加稅，在羅馬或拿坡里則要繳。中高階薪資的 0.8% 稅率在大城市中屬於偏低，倫巴底大區起始稅率也低。同樣的稅前薪資，米蘭員工通常比羅馬或拿坡里實領略多。</p>  </section> <section class="prose"> <h2 id="practical-notes">實務重點</h2> <ul>  <li><b>通勤。</b>五條地鐵線、近郊鐵路與路面電車。不少人住在蒙扎、貝加莫、帕維亞或諾瓦拉，搭火車進城。</li> <li><b>交通。</b>利納特機場離市中心近；馬爾彭薩機場是洲際航班的主要機場，從台北或香港前往通常經轉機抵達。</li>  <li><b>時差。</b>義大利為 UTC+1，夏令時間 UTC+2；台北與香港比義大利快 7 小時，夏季快 6 小時。義大利早上 9 點到 11 點，是台北下午 4 點到 6 點（冬季），每天約有兩小時的共同上班時間，適合安排固定的跨洲會議。</li> </ul> </section> <section class="prose"> <h2 id="start">開始在米蘭聘用</h2> <p>先估算雇主總成本，再告訴我們職缺內容。</p> <div class="cta"><a class="btn" href="calculator.html">開啟試算器</a><a class="btn ghost" href="contact.html">取得報價</a></div> </section>
+
+
+---
+Source: https://yidaliguyong.com/hire-in-milan.html
